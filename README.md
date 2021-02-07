@@ -1,8 +1,5 @@
 # ⚡ Hi, I'm Leandro Moro.
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/moroleandro_?color=%234fffff&label=%40moroleandro_&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/moroleandro_)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moroleandro)
-
 Passionate about technology, acting as SRE at Mandic Cloud Solutions. Open to learn new technologies and methodologies to improve every day more as a professional. English beginner.
 
 :rocket: Skills
@@ -15,3 +12,9 @@ Passionate about technology, acting as SRE at Mandic Cloud Solutions. Open to le
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+    
+    
+[![Twitter Badge](https://img.shields.io/twitter/follow/moroleandro_?color=%234fffff&label=%40moroleandro_&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/moroleandro_)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moroleandro)
+[![Gitlab Badge](https://img.shields.io/badge/gitlab--%2300EBEB?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/moroleandro)
+[![Medium Badge](https://img.shields.io/badge/medium--%2300EBEB?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@moroleandro)
