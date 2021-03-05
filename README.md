@@ -1,6 +1,6 @@
 # ⚡ Hi, I'm Leandro Moro.
 
-Passionate about technology, acting as SRE at Mandic Cloud Solutions. Open to learn new technologies and methodologies to improve every day more as a professional. English beginner.
+Passionate about technology, acting as SRE. Open to learn new technologies and methodologies to improve every day more as a professional. English beginner.
 
 :rocket: Skills
     <br/><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
