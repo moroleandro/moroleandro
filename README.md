@@ -17,4 +17,4 @@ Passionate about technology, acting as SRE. Open to learn new technologies and m
 [![Twitter Badge](https://img.shields.io/twitter/follow/moroleandro_?color=%234fffff&label=%40moroleandro_&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/moroleandro_)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moroleandro)
 [![Gitlab Badge](https://img.shields.io/badge/gitlab--%2300EBEB?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/moroleandro)
-[![Medium Badge](https://img.shields.io/badge/medium--%2300EBEB?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@moroleandro)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=moroleandro.visitor-badge)](https://github.com/moroleandro)
