@@ -4,6 +4,8 @@
 - 👀 I’m interested in Open Source projects (Linux, CNCF, GitOps and Tools)
 - 📚 I’m currently learning AWS, K8S, Python, and some automations tools like Argo (CD, Autopilot, Events, Rollouts and Workflows).
 
+<br/>
+
 ### :rocket: Skills
 
 <br/><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
