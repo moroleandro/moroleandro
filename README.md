@@ -5,7 +5,7 @@
 - 📚 I’m currently learning AWS, K8S, Python, and some automations tools like Argo (CD, Autopilot, Events, Rollouts and Workflows).
 
 ### :rocket: Skills
-<br />
+
     <br/><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
@@ -16,7 +16,8 @@
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
     
-<br/>
+<br />
+<br />
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/moroleandro_?color=%234fffff&label=%40moroleandro_&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/moroleandro_)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moroleandro)
